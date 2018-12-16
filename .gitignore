@@ -1,2 +1,6 @@
-.DS_STORE
-*.swp
+*
+!*.sh
+!*.txt
+!*.c
+!*.h
+!.gitignore
